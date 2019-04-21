@@ -38,6 +38,12 @@ gdscript/warnings/return_value_discarded=false
 
 enabled=PoolStringArray( "MagicaVoxel_Importer_with_Extensions" )
 
+[importer_defaults]
+
+MagicaVoxel.With.Extensions={
+"Scale": 0.025
+}
+
 [rendering]
 
 quality/driver/driver_name="GLES2"

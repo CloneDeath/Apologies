@@ -11,4 +11,4 @@ dest_files=[ "res://.import/fire.vox-91c9accd4d4569163535e04e123eedba.mesh" ]
 
 [params]
 
-Scale=0.1
+Scale=0.025

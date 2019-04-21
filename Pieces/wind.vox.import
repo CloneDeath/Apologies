@@ -11,4 +11,4 @@ dest_files=[ "res://.import/wind.vox-a7c2d9cfe2bc10a199c707f7506a0176.mesh" ]
 
 [params]
 
-Scale=0.1
+Scale=0.025

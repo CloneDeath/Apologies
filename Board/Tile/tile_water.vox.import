@@ -1,0 +1,14 @@
+[remap]
+
+importer="MagicaVoxel.With.Extensions"
+type="Mesh"
+path="res://.import/tile_water.vox-7961136e89a639e356a7b480c5330585.mesh"
+
+[deps]
+
+source_file="res://Board/Tile/tile_water.vox"
+dest_files=[ "res://.import/tile_water.vox-7961136e89a639e356a7b480c5330585.mesh" ]
+
+[params]
+
+Scale=0.025

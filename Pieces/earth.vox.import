@@ -11,4 +11,4 @@ dest_files=[ "res://.import/earth.vox-372beba6399f4dc8c47ffbf8a082168f.mesh" ]
 
 [params]
 
-Scale=0.1
+Scale=0.025
