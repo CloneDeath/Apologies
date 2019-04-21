@@ -87,4 +87,4 @@ margin_top = 219.0
 margin_right = 261.0
 margin_bottom = 219.0
 
-[connection signal="pressed" from="MainMenu/HBoxContainer/VBoxContainer/MenuOptions/Start" to="MainMenu/HBoxContainer/VBoxContainer/MenuOptions/Start" method="_on_Start_pressed"]
+[connection signal="pressed" from="MainMenu/HBoxContainer/VBoxContainer/MenuOptions/Start" to="." method="_on_Start_pressed"]

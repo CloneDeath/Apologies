@@ -1,11 +1,5 @@
 extends Control
 
-func _ready():
-	pass
-	
-func new_game():
-	print("Hello World");
-
-
-func _on_Start_start_game():
+func _on_Start_pressed():
+	$MainMenu.visible = false;
 	print("Game should be started");
