@@ -2,12 +2,12 @@
 
 importer="MagicaVoxel.With.Extensions"
 type="Mesh"
-path="res://.import/Tile.vox-c8ce15a969e5c3323c514c6258b14b80.mesh"
+path="res://.import/tile.vox-960a36f9c5330468bbcfa4544a334994.mesh"
 
 [deps]
 
-source_file="res://Board/Tile/Tile.vox"
-dest_files=[ "res://.import/Tile.vox-c8ce15a969e5c3323c514c6258b14b80.mesh" ]
+source_file="res://Board/Tile/tile.vox"
+dest_files=[ "res://.import/tile.vox-960a36f9c5330468bbcfa4544a334994.mesh" ]
 
 [params]
 
