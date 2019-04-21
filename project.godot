@@ -16,7 +16,12 @@ _global_script_class_icons={
 [application]
 
 config/name="Apologies"
+run/main_scene="res://Multiplayer/Demo.tscn"
 config/icon="res://icon.png"
+
+[debug]
+
+gdscript/warnings/return_value_discarded=false
 
 [editor_plugins]
 
