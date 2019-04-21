@@ -1,0 +1,14 @@
+[remap]
+
+importer="MagicaVoxel.With.Extensions"
+type="Mesh"
+path="res://.import/wind.vox-a7c2d9cfe2bc10a199c707f7506a0176.mesh"
+
+[deps]
+
+source_file="res://Pieces/wind.vox"
+dest_files=[ "res://.import/wind.vox-a7c2d9cfe2bc10a199c707f7506a0176.mesh" ]
+
+[params]
+
+Scale=0.1
