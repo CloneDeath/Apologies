@@ -11,4 +11,4 @@ dest_files=[ "res://.import/water.vox-6317e66ae7dac5acad24048fd3062bf1.mesh" ]
 
 [params]
 
-Scale=0.1
+Scale=0.025

@@ -8,9 +8,20 @@
 
 config_version=4
 
-_global_script_classes=[  ]
+_global_script_classes=[ {
+"base": "Spatial",
+"class": "PlayerCorner",
+"language": "GDScript",
+"path": "res://Board/PlayerCorner/PlayerCorner.gd"
+}, {
+"base": "Spatial",
+"class": "Tile",
+"language": "GDScript",
+"path": "res://Board/Tile/Tile.gd"
+} ]
 _global_script_class_icons={
-
+"PlayerCorner": "",
+"Tile": ""
 }
 
 [application]
