@@ -18,10 +18,6 @@ _global_script_class_icons={
 config/name="Apologies"
 config/icon="res://icon.png"
 
-[editor_plugins]
-
-enabled=PoolStringArray( "MagicaVoxel_Importer_with_Extensions" )
-
 [rendering]
 
 quality/driver/driver_name="GLES2"
