@@ -11,4 +11,4 @@ dest_files=[ "res://.import/tile.vox-960a36f9c5330468bbcfa4544a334994.mesh" ]
 
 [params]
 
-Scale=0.1
+Scale=0.025
